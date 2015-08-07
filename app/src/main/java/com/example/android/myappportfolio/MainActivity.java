@@ -90,7 +90,7 @@ public class MainActivity extends ActionBarActivity {
         //String buttonText = (String) button.getText();
         String buttonText = "This button will launch my Capstone App";
         Context context = getApplicationContext();
-
+        //test message for git commit
         //make toast and show it
         Toast toast = Toast.makeText(context, buttonText, Toast.LENGTH_SHORT);
         toast.show();
